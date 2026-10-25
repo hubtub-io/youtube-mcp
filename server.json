@@ -3,8 +3,8 @@
   "name": "io.hubtub/youtube-analytics",
   "title": "HubTub Pulse: YouTube Analytics",
   "description": "Your YouTube channels’ private analytics for AI assistants: revenue, views, retention. Read-only.",
-  "version": "1.0.0",
-  "websiteUrl": "https://hubtub.io/mcp",
+  "version": "1.0.1",
+  "websiteUrl": "https://hubtub.io/pulse/mcp",
   "repository": {
     "url": "https://github.com/hubtub-io/youtube-mcp",
     "source": "github"

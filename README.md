@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hubtub.io/mcp"><img src="https://hubtub.io/hubtub-icon-512.png" width="72" height="72" alt="HubTub"></a>
+  <a href="https://hubtub.io/pulse/mcp"><img src="https://hubtub.io/hubtub-icon-512.png" width="72" height="72" alt="HubTub"></a>
 </p>
 
 <h1 align="center">YouTube MCP server: HubTub Pulse</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hubtub.io/mcp">Website</a> ·
+  <a href="https://hubtub.io/pulse/mcp">Website</a> ·
   <a href="https://hubtub.io/pulse/ai">Documentation</a> ·
   <a href="https://hubtub.io/privacy">Privacy Policy</a>
 </p>
@@ -61,7 +61,7 @@ Works in apps that support remote MCP servers with sign-in (OAuth).
 - Which videos had many impressions but few clicks?
 - Which countries watch my channel the most?
 
-[More questions by topic](https://hubtub.io/mcp#prompts)
+[More questions by topic](https://hubtub.io/pulse/mcp#prompts)
 
 ## Tools
 

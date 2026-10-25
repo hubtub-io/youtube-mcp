@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.hubtub/youtube-analytics",
+  "title": "HubTub Pulse: YouTube Analytics",
+  "description": "Your YouTube channels’ private analytics for AI assistants: revenue, views, retention. Read-only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://hubtub.io/mcp",
+  "repository": {
+    "url": "https://github.com/hubtub-io/youtube-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://hubtub.io/hubtub-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.hubtub.io/api/mcp"
+    }
+  ]
+}
